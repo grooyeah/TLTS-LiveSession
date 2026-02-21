@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/LiveSession.Application/LiveSession.Application.csproj" />
+    <Project Path="src/LiveSession.Domain/LiveSession.Domain.csproj" />
+    <Project Path="src/LiveSession.Infrastructure/LiveSession.Infrastructure.csproj" />
+    <Project Path="src/LiveSession.Web/LiveSession.Web.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/LiveSession.Application.Tests/LiveSession.Application.Tests.csproj" />
+    <Project Path="tests/LiveSession.Architecture.Tests/LiveSession.Architecture.Tests.csproj" />
+    <Project Path="tests/LiveSession.Domain.Tests/LiveSession.Domain.Tests.csproj" />
+  </Folder>
+</Solution>
